@@ -9,3 +9,8 @@ Sample website with plenty of files for demos
 ##Copyright
 
 2023 Git.Training
+
+
+##How To Contribute
+
+Please fork this repository and then issue Pull Request
